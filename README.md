@@ -6,3 +6,10 @@ Indoor VOCs and fine particulate matter (PM2.5) are produced by common household
 
 This highlights the importance of regularly monitoring indoor air quality to know when it is necessary to employ ventilation and air filtration systems indoors. The purpose of the indoor air quality monitor is to detect the present VOCs and PM in the air. Once certain levels are detected, it is designed to turn on the ventilation and air filtration systems in the home to maintain levels within Health Canada standards.
 
+The project consists of three air quality sensors – the MQ-135, SGP41, and HM3301 – these were selected based on what they can detect to help achieve the goal of the project. The MQ-135 can exposure limits, the ventilation and air filtration devices would be automatically turned on. Conversely, when the levels are within the recommended limits, the devices would be automatically turned off.
+
+[1] “Indoor air quality: Volatile Organic Compounds (vocs),” Indoor Air Quality: Volatile Organic Compounds (VOCs) | HealthLink BC, https://www.healthlinkbc.ca/healthlinkbc-files/indoor-air-quality-volatile-organiccompounds-vocs (accessed Dec. 16, 2023).
+
+[2] “Household air pollution,” World Health Organization, https://www.who.int/news-room/factsheets/detail/household-air-pollution-and-health (accessed Dec. 16, 2023).
+
+[3] Health Canada, “Guidance for fine particulate matter (PM2.5) in residential indoor air,” Canada.ca, Aug. 07, 2012. https://www.canada.ca/en/health-canada/services/publications/healthy-living/guidance-fine-particulatematter-pm2-5-residential-indoor-air.html (accessed Dec. 16, 2023).
